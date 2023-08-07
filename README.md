@@ -1,2 +1,1 @@
-#!/bin/bash
-Shell task for README.md repository
+a readme for devops
