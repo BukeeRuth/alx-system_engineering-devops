@@ -45,8 +45,9 @@ frontend ruthdevv-frontend-https
         http-request set-header X-Forwarded-Proto https
         default_backend ruthdevv-backend
 
-
-backend ruthdevv-tech-backend
+backend ruthdevv-backend
         balance roundrobin
         server 494040-web-01 54.237.93.188:80 check
         server 494040-web-02 100.27.14.144:80 check
+#       server 494040-web-01 54.237.93.188:80 check
+#       server 494040-web-02 100.27.14.144:80 check
