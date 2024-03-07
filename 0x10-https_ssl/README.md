@@ -1,1 +1,1 @@
-read me for http ssl
+basic read me file for http ssl
