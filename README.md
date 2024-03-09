@@ -1,1 +1,1 @@
-a readme for devops
+read me for network basis
